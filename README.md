@@ -9,7 +9,7 @@ I'm a graduate student from China 🇨🇳
 
 - 📑 My major is Computer Science
 
-- ❤️ I love Generative model, and now working on diffusion models
+- ❤️ I love Generative model, and now working on Diffusion models
 
 - 💬 Ask me about anything [here](https://github.com/zideliu/zideliu/issues)
 
