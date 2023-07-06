@@ -25,15 +25,5 @@ I'm a graduate student from China 🇨🇳
 | <a href="https://github.com/zideliu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zideliu&theme=buefy&hide_border=true" alt="Zideliu's github stats" /></a> | <a href="https://github.com/zideliu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zideliu&theme=buefy&hide_border=true&layout=compact" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/zideliu/StyleDrop-PyTorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zideliu&repo=StyleDrop-PyTorch&theme=buefy" />
-</a>
-<a href="https://github.com/baaivision/vid2vid-zero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baaivision&repo=vid2vid-zero&theme=buefy" />
-</a>
-
 <br />
 <br />
