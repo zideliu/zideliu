@@ -22,8 +22,7 @@ I'm a graduate student from China 🇨🇳
 
 
 
-| <a href="https://github.com/zideliu"><img align="center" src="https://github-readme-stats-gold-eta-26.vercel.app/api?username=zideliu&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="Zideliu's github stats" /></a> | <a href="https://github.com/zideliu"><img align="center" src="https://github-readme-stats-gold-eta-26.vercel.app/api/top-langs/?username=zideliu&theme=buefy&hide_border=true&layout=compact&hide=java,CSS&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
-| ------------- | ------------- |
+
 
 <br />
 <br />
