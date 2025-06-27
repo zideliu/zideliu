@@ -1,8 +1,6 @@
 <img src="img/img.jpg" width="975" height="300">
 <br />
 
-I'm a graduate student from China 🇨🇳
-
 **About me**
 
 - 🏫 Study at [Zhejiang University](https://www.zju.edu.cn/)
